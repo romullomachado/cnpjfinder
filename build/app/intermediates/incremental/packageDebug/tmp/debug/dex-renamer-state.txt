@@ -1,0 +1,4 @@
+#Tue Nov 29 21:56:46 BRT 2022
+base.0=/Users/romullomachado/Documents/ROMULLO/Pessoal/Projetos/Flutter/projetos/cnpj_finder/cnpj_finder_Renatto/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
